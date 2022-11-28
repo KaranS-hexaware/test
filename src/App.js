@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import LogInDetails from './LogInDetails';import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-      </header>
+      <LogInDetails/></header>
     </div>
   );
 }
